@@ -1,0 +1,26 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "data-structures",
+    "algorithms"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:masonzz/data-structures-and-algorithms.git"
+  },
+  "author": "mason.zz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masonzz/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/masonzz/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
