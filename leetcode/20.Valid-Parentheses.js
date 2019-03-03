@@ -28,7 +28,7 @@
 // Output: true
 
 /**
- * @param {string} s
+ * @param {string}
  * @return {boolean}
  */
 var isValid = function(s) {
@@ -39,7 +39,7 @@ var isValid = function(s) {
     let map = {
         '(': ')',
         '[': ']',
-        '{': '}' 
+        '{': '}'
     };
     let stack = [];
     for (let i = 0; i < length; i++) {
